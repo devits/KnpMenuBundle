@@ -1,5 +1,5 @@
 {
-    "name":         "knplabs/knp-menu-bundle",
+    "name":         "devit/knp-menu-bundle",
     "description":  "This bundle provides an integration of the KnpMenu library",
     "keywords":     ["menu"],
     "type":         "symfony-bundle",
@@ -19,7 +19,7 @@
         }
     ],
     "require":      {
-        "knplabs/knp-menu":         "~2.0, >=2.0.0-beta1",
+        "devit/knp-menu":         "~2.0, >=2.0.0-beta1",
         "symfony/framework-bundle": "~2.0"
     },
     "autoload":     {
