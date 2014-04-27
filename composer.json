@@ -1,5 +1,5 @@
 {
-    "name":         "devit/knp-menu-bundle",
+    "name":         "knplabs/knp-menu-bundle",
     "description":  "This bundle provides an integration of the KnpMenu library",
     "keywords":     ["menu"],
     "type":         "symfony-bundle",
